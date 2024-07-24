@@ -1,0 +1,267 @@
+[
+    {
+        "author": "George Orwell",
+        "title": "1984",
+        "publicationDate": "1949-06-08"
+    },
+    {
+        "author": "Harper Lee",
+        "title": "To Kill a Mockingbird",
+        "publicationDate": "1960-07-11"
+    },
+    {
+        "author": "J.K. Rowling",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "publicationDate": "1997-06-26"
+    },
+    {
+        "author": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby",
+        "publicationDate": "1925-04-10"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "title": "The Hobbit",
+        "publicationDate": "1937-09-21"
+    },
+    {
+        "author": "Jane Austen",
+        "title": "Pride and Prejudice",
+        "publicationDate": "1813-01-28"
+    },
+    {
+        "author": "Mark Twain",
+        "title": "Adventures of Huckleberry Finn",
+        "publicationDate": "1884-12-10"
+    },
+    {
+        "author": "Mary Shelley",
+        "title": "Frankenstein",
+        "publicationDate": "1818-01-01"
+    },
+    {
+        "author": "Ernest Hemingway",
+        "title": "The Old Man and the Sea",
+        "publicationDate": "1952-09-01"
+    },
+    {
+        "author": "Homer",
+        "title": "The Odyssey",
+        "publicationDate": "8th Century BC"
+    },
+    {
+        "author": "Leo Tolstoy",
+        "title": "War and Peace",
+        "publicationDate": "1869-01-01"
+    },
+    {
+        "author": "Emily Brontë",
+        "title": "Wuthering Heights",
+        "publicationDate": "1847-12-01"
+    },
+    {
+        "author": "Charles Dickens",
+        "title": "Great Expectations",
+        "publicationDate": "1861-01-01"
+    },
+    {
+        "author": "Herman Melville",
+        "title": "Moby Dick",
+        "publicationDate": "1851-10-18"
+    },
+    {
+        "author": "Fyodor Dostoevsky",
+        "title": "Crime and Punishment",
+        "publicationDate": "1866-01-01"
+    },
+    {
+        "author": "Gabriel García Márquez",
+        "title": "One Hundred Years of Solitude",
+        "publicationDate": "1967-06-05"
+    },
+    {
+        "author": "Franz Kafka",
+        "title": "The Metamorphosis",
+        "publicationDate": "1915-01-01"
+    },
+    {
+        "author": "Aldous Huxley",
+        "title": "Brave New World",
+        "publicationDate": "1932-01-01"
+    },
+    {
+        "author": "James Joyce",
+        "title": "Ulysses",
+        "publicationDate": "1922-02-02"
+    },
+    {
+        "author": "Virginia Woolf",
+        "title": "To the Lighthouse",
+        "publicationDate": "1927-01-01"
+    },
+    {
+        "author": "Joseph Conrad",
+        "title": "Heart of Darkness",
+        "publicationDate": "1899-01-01"
+    },
+    {
+        "author": "Miguel de Cervantes",
+        "title": "Don Quixote",
+        "publicationDate": "1605-01-01"
+    },
+    {
+        "author": "Marcel Proust",
+        "title": "In Search of Lost Time",
+        "publicationDate": "1913-01-01"
+    },
+    {
+        "author": "William Faulkner",
+        "title": "The Sound and the Fury",
+        "publicationDate": "1929-01-01"
+    },
+    {
+        "author": "Gustave Flaubert",
+        "title": "Madame Bovary",
+        "publicationDate": "1856-01-01"
+    },
+    {
+        "author": "J.D. Salinger",
+        "title": "The Catcher in the Rye",
+        "publicationDate": "1951-07-16"
+    },
+    {
+        "author": "Leo Tolstoy",
+        "title": "Anna Karenina",
+        "publicationDate": "1877-01-01"
+    },
+    {
+        "author": "Toni Morrison",
+        "title": "Beloved",
+        "publicationDate": "1987-09-16"
+    },
+    {
+        "author": "Charlotte Brontë",
+        "title": "Jane Eyre",
+        "publicationDate": "1847-10-16"
+    },
+    {
+        "author": "Jack London",
+        "title": "The Call of the Wild",
+        "publicationDate": "1903-01-01"
+    },
+    {
+        "author": "H.G. Wells",
+        "title": "The War of the Worlds",
+        "publicationDate": "1898-01-01"
+    },
+    {
+        "author": "Oscar Wilde",
+        "title": "The Picture of Dorian Gray",
+        "publicationDate": "1890-01-01"
+    },
+    {
+        "author": "Jules Verne",
+        "title": "Twenty Thousand Leagues Under the Sea",
+        "publicationDate": "1870-01-01"
+    },
+    {
+        "author": "Nathaniel Hawthorne",
+        "title": "The Scarlet Letter",
+        "publicationDate": "1850-01-01"
+    },
+    {
+        "author": "Edgar Allan Poe",
+        "title": "The Raven",
+        "publicationDate": "1845-01-01"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "title": "The Little Prince",
+        "publicationDate": "1943-04-06"
+    },
+    {
+        "author": "Lewis Carroll",
+        "title": "Alice's Adventures in Wonderland",
+        "publicationDate": "1865-11-26"
+    },
+    {
+        "author": "Ray Bradbury",
+        "title": "Fahrenheit 451",
+        "publicationDate": "1953-10-19"
+    },
+    {
+        "author": "George Eliot",
+        "title": "Middlemarch",
+        "publicationDate": "1871-01-01"
+    },
+    {
+        "author": "Herman Hesse",
+        "title": "Steppenwolf",
+        "publicationDate": "1927-01-01"
+    },
+    {
+        "author": "Ralph Ellison",
+        "title": "Invisible Man",
+        "publicationDate": "1952-01-01"
+    },
+    {
+        "author": "Dante Alighieri",
+        "title": "The Divine Comedy",
+        "publicationDate": "1320-01-01"
+    },
+    {
+        "author": "William Golding",
+        "title": "Lord of the Flies",
+        "publicationDate": "1954-09-17"
+    },
+    {
+        "author": "Homer",
+        "title": "The Iliad",
+        "publicationDate": "8th Century BC"
+    },
+    {
+        "author": "John Steinbeck",
+        "title": "The Grapes of Wrath",
+        "publicationDate": "1939-04-14"
+    },
+    {
+        "author": "Thomas Mann",
+        "title": "The Magic Mountain",
+        "publicationDate": "1924-01-01"
+    },
+    {
+        "author": "Jonathan Swift",
+        "title": "Gulliver's Travels",
+        "publicationDate": "1726-01-01"
+    },
+    {
+        "author": "James Baldwin",
+        "title": "Go Tell It on the Mountain",
+        "publicationDate": "1953-01-01"
+    },
+    {
+        "author": "Virginia Woolf",
+        "title": "Mrs Dalloway",
+        "publicationDate": "1925-05-14"
+    },
+    {
+        "author": "Miguel de Cervantes",
+        "title": "The Ingenious Gentleman Don Quixote of La Mancha",
+        "publicationDate": "1615-01-01"
+    },
+    {
+        "author": "Kurt Vonnegut",
+        "title": "Slaughterhouse-Five",
+        "publicationDate": "1969-03-31"
+    },
+    {
+        "author": "D.H. Lawrence",
+        "title": "Sons and Lovers",
+        "publicationDate": "1913-01-01"
+    },
+    {
+        "author": "Arthur Conan Doyle",
+        "title": "The Adventures of Sherlock Holmes",
+        "publicationDate": "1892-10-14"
+    }
+]
