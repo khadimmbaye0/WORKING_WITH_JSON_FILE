@@ -14,7 +14,7 @@ function fetchBooks() {
                  <p>Author: ${book.author}</p>
                  <p>Publication Date: ${book.publicationDate}</p><hr>`);
         });
-        document.getElementById('bookItem').innerHTML = displayBooks.join();
+        document.getElementById('bookItem').innerHTML = displayBooks.join('');
     })
 }
 
